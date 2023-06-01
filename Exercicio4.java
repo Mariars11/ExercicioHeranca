@@ -1,9 +1,3 @@
-/*
- Crie uma classe abstrata chamada "Veículo" com os atributos "marca" e "ano" e um método abstrato chamado "imprimirInformações()"
-. Em seguida, crie três subclasses chamadas "Carro", "Moto" e "Caminhão" que estendem a classe "Veículo" e implementam o método 
-"imprimirInformações()" para exibir as informações específicas de cada tipo de veículo. Por fim, crie uma classe "TesteVeículos"
-que instancia objetos de cada uma das subclasses, preenche suas informações e chama o método "imprimirInformações()" em cada um deles.*/
-
 package heranca.exercicio4;
 
 abstract class Veiculo
